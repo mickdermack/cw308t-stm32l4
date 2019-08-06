@@ -328,14 +328,14 @@ BOOT0
 Text Notes 9900 5000 2    100  ~ 0
 USB/CAN
 $Comp
-L Connector_Generic:Conn_02x03_Odd_Even J2
+L Connector_Generic:Conn_02x05_Odd_Even J2
 U 1 1 5D4646B0
-P 9450 5500
-F 0 "J2" H 9500 5817 50  0000 C CNN
-F 1 "Conn_02x03_Odd_Even" H 9500 5726 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 9450 5500 50  0001 C CNN
-F 3 "~" H 9450 5500 50  0001 C CNN
-	1    9450 5500
+P 9450 5600
+F 0 "J2" H 9500 5900 50  0000 C CNN
+F 1 "Conn_02x03_Odd_Even" H 9400 5300 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical" H 9450 5600 50  0001 C CNN
+F 3 "~" H 9450 5600 50  0001 C CNN
+	1    9450 5600
 	1    0    0    -1  
 $EndComp
 Text Label 9150 5500 2    50   ~ 0
