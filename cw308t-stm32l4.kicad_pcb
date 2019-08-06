@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 24)
+    (drawings 25)
     (tracks 503)
     (zones 0)
     (modules 18)
@@ -1401,6 +1401,9 @@
     )
   )
 
+  (gr_text "Licensed under CERN OHL v.1.2 or later" (at 148 67.75) (layer B.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
   (gr_text "© 2019 mickdermack, aveexy" (at 148.25 63.25) (layer B.SilkS) (tstamp 5D4AEAD7)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
@@ -1517,7 +1520,7 @@
   (segment (start 165.872 87.122) (end 167.934 89.184) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 169.210201 89.184) (end 168.5 89.184) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 169.75 88.644201) (end 169.210201 89.184) (width 0.25) (layer F.Cu) (net 1))
-  (via (at 161.75 67.5) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2) (tstamp 5D49A237))
+  (via (at 161.75 66.75) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2) (tstamp 5D49A237))
   (via (at 145.034 96.012) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2))
   (segment (start 146.1525 95.73) (end 145.316 95.73) (width 0.25) (layer F.Cu) (net 2))
   (segment (start 145.316 95.73) (end 145.034 96.012) (width 0.25) (layer F.Cu) (net 2))
@@ -1531,8 +1534,8 @@
   (via (at 137.668 100.33) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2))
   (via (at 159 95.5) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2))
   (via (at 166.878 94.996) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2))
-  (via (at 135 67.5) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2))
-  (via (at 148 67.5) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2))
+  (via (at 135 66.75) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2))
+  (via (at 148 66.75) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2))
   (via (at 161.25 75.25) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2))
   (via (at 155.5 81.25) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2))
   (via (at 159.5 72.75) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 2))
