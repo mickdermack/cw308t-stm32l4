@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 22)
+    (drawings 24)
     (tracks 509)
     (zones 0)
     (modules 18)
@@ -671,7 +671,7 @@
   )
 
   (module Symbol:OSHW-Logo_5.7x6mm_SilkScreen (layer B.Cu) (tedit 0) (tstamp 5D46D79A)
-    (at 154 68 180)
+    (at 148 76.25 180)
     (descr "Open Source Hardware Logo")
     (tags "Logo OSHW")
     (attr virtual)
@@ -1401,6 +1401,12 @@
     )
   )
 
+  (gr_text "© 2019 mickdermack, aveexy" (at 148.25 63.25) (layer B.SilkS) (tstamp 5D4AEAD7)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text "Rev. 1.0" (at 167 119.75) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_text NC (at 149 79.25) (layer F.SilkS) (tstamp 5D4AD733)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
@@ -1439,7 +1445,7 @@
   (gr_text RX/D- (at 154.75 73.25) (layer F.SilkS) (tstamp 5D4A6424)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
-  (gr_text https://github.com/mickdermack (at 148 62.5) (layer B.SilkS)
+  (gr_text https://github.com/mickdermack (at 148.25 65.5) (layer B.SilkS)
     (effects (font (size 1.1 1.1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "CW308 UFO Board" (at 148 66.5) (layer F.SilkS)
