@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:cw308t-stm32l4-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -138,11 +138,11 @@ Text Label 1950 2400 2    50   ~ 0
 NRST
 Wire Wire Line
 	2050 2400 1950 2400
-Text Label 8200 3500 2    50   ~ 0
+Text Label 9600 3000 0    50   ~ 0
 TX
 Wire Wire Line
 	8200 3600 8400 3600
-Text Label 8200 3600 2    50   ~ 0
+Text Label 9600 3100 0    50   ~ 0
 RX
 Wire Wire Line
 	8400 3500 8200 3500
@@ -730,9 +730,9 @@ Wire Wire Line
 Wire Wire Line
 	5850 2800 5850 2700
 Connection ~ 5850 2700
-Text Label 9600 3000 0    50   ~ 0
+Text Label 8200 3500 2    50   ~ 0
 I2C_SCL
-Text Label 9600 3100 0    50   ~ 0
+Text Label 8200 3600 2    50   ~ 0
 I2C_SDA
 Wire Wire Line
 	9400 3000 9600 3000
