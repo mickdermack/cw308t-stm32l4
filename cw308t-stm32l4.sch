@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "STM32L4 Target Board for CW308"
 Date "2019-08-03"
-Rev "1"
+Rev "2"
 Comp "https://github.com/mickdermack"
 Comment1 ""
 Comment2 ""

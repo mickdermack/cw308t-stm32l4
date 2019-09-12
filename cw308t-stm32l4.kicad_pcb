@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.5)
+    (last_trace_width 0.25)
     (user_trace_width 0.5)
     (trace_clearance 0.2)
     (zone_clearance 0.4)
@@ -1410,7 +1410,7 @@
   (gr_text "© 2019 mickdermack, aveexy" (at 148.25 63.25) (layer B.SilkS) (tstamp 5D4AEAD7)
     (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
   )
-  (gr_text "Rev. 1.0" (at 167 119.75) (layer F.SilkS)
+  (gr_text "Rev. 2.0" (at 167 119.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (gr_text NC (at 149 79.25) (layer F.SilkS) (tstamp 5D4AD733)
