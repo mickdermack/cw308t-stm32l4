@@ -146,7 +146,7 @@ Text Label 9600 3100 0    50   ~ 0
 RX
 Wire Wire Line
 	8400 3500 8200 3500
-Text Label 9600 2500 0    50   ~ 0
+Text Label 8200 3000 2    50   ~ 0
 GPIO3
 Text Label 8200 2800 2    50   ~ 0
 GPIO4
@@ -608,7 +608,7 @@ Wire Wire Line
 	7800 3350 7800 3100
 Wire Wire Line
 	7800 3100 8400 3100
-Text Label 8200 3000 2    50   ~ 0
+Text Label 9600 2500 0    50   ~ 0
 SPI_SS
 Wire Wire Line
 	8200 3000 8400 3000
