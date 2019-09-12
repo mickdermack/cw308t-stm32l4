@@ -1,6 +1,7 @@
 gerber/
 fp-lib-table
 sym-lib-table
+*.sch-bak
 
 # Created by https://www.gitignore.io/api/kicad
 # Edit at https://www.gitignore.io/?templates=kicad
